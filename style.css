@@ -3,7 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 {
-  color: blue
+header {
+  text-align: center;
 }
 
+img {
+  display: block;
+  margin: auto;
+}
+
+a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: crimson;
+}
+
+figcaption {
+  text-align: center;
+}
+
+p#featured-property {
+  text-align: center;
+  width: 800px;
+  color: red;
+}
