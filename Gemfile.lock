@@ -36,7 +36,7 @@ PLATFORMS
 
 DEPENDENCIES
   css_parser
-  nokogiri
+  nokogiri (= 1.11.2)
   pry
   rspec
 

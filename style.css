@@ -3,7 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 {
-  color: blue
+header h1{
+  text-align: center;
 }
 
+img {
+  display: block;
+  margin: auto;
+}
+
+header nav a{
+  
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+figcaption {
+  text-align: center;
+}
+
+#featured-property p{
+  margin: auto;
+  text-align: center;
+  width: 800px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 90%;
+}
+
+div {
+  float: left;
+  text-align: center;
+  background-color: greenyellow;
+  width: 25%;
+}
